@@ -1,0 +1,2 @@
+let paragraf = document.querySelector('p');
+paragraf.textContent = 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos, officiis exercitationem blanditiis libero sunt hic odit ab veritatis, accusantium quae tempore! Eligendi, repellat! Est, quis non? Velit tempora voluptas facere.';
